@@ -1,0 +1,8 @@
+﻿  N4.c
+D:\C++Tasks\Yap_7\N4\N4.c(17,23): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+D:\C++Tasks\Yap_7\N4\N4.c(17,1): warning C4047: инициализация: "char *" отличается по уровням косвенного обращения от "int"
+D:\C++Tasks\Yap_7\N4\N4.c(69,1): warning C4047: инициализация: "wrkr *" отличается по уровням косвенного обращения от "int"
+D:\C++Tasks\Yap_7\N4\N4.c(90,14): warning C4013: strcmp: нет определения; предполагается "extern" с возвратом типа "int"
+D:\C++Tasks\Yap_7\N4\N4.c(98,8): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+D:\C++Tasks\Yap_7\N4\N4.c(136,1): warning C4047: инициализация: "wrkr *" отличается по уровням косвенного обращения от "int"
+  N4.vcxproj -> D:\C++Tasks\Yap_7\N4\Debug\N4.exe

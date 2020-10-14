@@ -1,0 +1,4 @@
+C:\Users\ilyuh\Desktop\C++Tasks\Yap_7\N4\Debug\N4.exe
+C:\Users\ilyuh\Desktop\C++Tasks\Yap_7\N4\Debug\N4.pdb
+D:\C++Tasks\Yap_7\N4\Debug\N4.exe
+D:\C++Tasks\Yap_7\N4\Debug\N4.pdb
